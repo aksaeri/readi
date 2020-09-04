@@ -16,7 +16,7 @@ After each wave of data collection, we generate and disseminate an updated repor
 
 We have over 100 international collaborators and more than 4000 people across 40 countries have completed the first and second waves of data collection. 
 
-Participate in the SCRUB study or read more about how to access the open science data at https://www.scrubcovid19.org
+Participate in the SCRUB study or read more about how to access the open science data [here](https://www.scrubcovid19.org)
 
 ## What works to reduce dietary consumption of animal products?
 
