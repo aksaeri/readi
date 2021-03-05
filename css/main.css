@@ -1,16 +1,16 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family: 'Droid Serif', 'Merriweather', serif;
+    font-family: 'Roboto', 'Arial', sans-serif;
 }
 nav ul, footer ul {
-    font-family: 'Droid Serif', 'Merriweather', serif;
+    font-family: 'Roboto', 'Arial', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', 'Arial Narrow', sans-serif;
     display: inline;
     margin-right: 20px;
 }
@@ -23,26 +23,26 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', 'Arial Narrow', sans-serif;
     margin-top: 1em;
     margin-bottom: 1em;
 }
 
 h2 {
     font-size: 2em;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', 'Arial Narrow', sans-serif;
     margin-top: 1em;
     margin-bottom: 0.5em;
 }
 
 h3 {
     font-size: 1.5em;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', 'Arial Narrow', sans-serif;
     margin-top: 0.5em;
 }
 
 p {
-    font-family: 'Droid Serif', 'Merriweather', serif;
+    font-family: 'Roboto', 'Arial', sans-serif;
     line-height: 1.2em;
     margin-bottom: 0.5em;
 }
