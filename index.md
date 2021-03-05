@@ -3,7 +3,7 @@ layout: default
 title: READI
 ---
 
-<img src="/assets/noun_Target_804778.png" alt="READI logo" title="READI logo" style="width: 200px; float: left; margin: 0;"> 
+<img src="/assets/noun_Target_804778.png" alt="READI logo" title="READI logo" style="width: 100px; float: left; margin: 0;"> 
 
 # Hi! We're READI
 
