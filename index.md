@@ -5,7 +5,7 @@ title: READI
 
 <img src="/assets/noun_Target_804778.png" alt="READI logo" title="READI logo" style="width: 100px; float: left; margin: 0;"> 
 
-# Hi! We're READI
+# READI
 
 READI coordinates and conducts behaviour science research to improve decision-making and behaviour for the world's most pressing problems.
 
