@@ -27,4 +27,4 @@ If you're leading an effective charity and you're trying to decide which messagi
 
 If you're working in animal welfare and you're trying to decide which marketing or other interventions to implement so that you can can encourage the public to eat less meat and other animal products, then you should read our [**animal products consumption review**](https://docs.google.com/document/d/1zqUPNGktRz6emp0WsPmmVjkOitiW7XdWS55YgBTNnp0/edit?usp=sharing)
 
-If your organisation serves the public and you're trying to decide on the policies that will most reduce harm and support a sustainable recovery from COVID-19, you should read about the [**Survey of COVID-19 Responses to Understand Behaviour (SCRUB)**](https:/www.scrubcovid19.org)
+If your organisation serves the public and you're trying to decide on the policies that will most reduce harm and support a sustainable recovery from COVID-19, you should read about the [**Survey of COVID-19 Responses to Understand Behaviour (SCRUB)**](www.scrubcovid19.org)
