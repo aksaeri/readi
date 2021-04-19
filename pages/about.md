@@ -13,7 +13,7 @@ Michael Noetel, Alexander Saeri and Peter Slattery are academic researchers who 
 Members of the Initiative include advisors, subject matter experts for each research project; team leaders, for experienced researchers who lead or manage our research projects; and members, for students and junior researchers who want to learn research skills and contribute to project execution.
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=143qp6oWDNR7s_u8xUVQJ4khAsE6VpDrg" height="480" width="700">
+<img src="/assets/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3134337170366f57444e5237735f7538785556514a346b68417345365670447267.jpg" height="480" width="700">
 </p>
 
 ## What we do
