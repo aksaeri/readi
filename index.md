@@ -10,8 +10,8 @@ title: READI
 READI coordinates and conducts behaviour science research to improve decision-making and behaviour for the world's most pressing problems.
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1GwKcWCGB4jLSqVB3lA6ZK0PGbTnfsKtV" height="480" width="680">
-</p> 
+<img src="/assets/71200510_1708221562643745_6557868032482344960_n%20v4.png" height="480" width="700">
+</p>
 
 ## Why we exist
 
