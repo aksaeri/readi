@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Research
-description: EAARC projects
+title: Philanthopy research database
+description: Our Philanthopy research database
 ---
 
 # Philanthopy research database
@@ -32,7 +32,7 @@ If you have questions then please read the FAQ here. If you have questions that 
  
 * Engage with academic research like a researcher. As researchers know, search engines and citation management systems are the best way to engage with academic research.  We can do the searching part for you and can make the second part really easy (see below).
  
-* Know the latest research - sure academic research isn’t always very actionable or intpretable, but there are often significant and clear findings like the identifiable victim effect. It is important to know about and react to these insights as quickly as possible. 
+* Know the latest research. Academic research isn’t always very actionable or interpretable, but there are often significant and clear findings like the identifiable victim effect. It is important to know about and react to these insights as quickly as possible. 
  
 * Know the relevant researchers - keep on top of who is producing most of the research relevant to your areas of fundraising
  
