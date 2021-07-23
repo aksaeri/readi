@@ -6,7 +6,7 @@ description: Our Philanthopy research database
 
 # Philanthopy research database
 
-In collaboration with [Giving What We Can](https://www.givingwhatwecan.org/) and [Innovations in Fundraising](https://innovationsinfundraising.org/), READI are building a database research articles on how to promote philanthropy and donating. 
+In collaboration with [Giving What We Can](https://www.givingwhatwecan.org/) and [Innovations in Fundraising](https://innovationsinfundraising.org/), READI are building a database of research on how to promote philanthropy and donating. 
 
 The aim is to help people working on charity research and practice to access and manage relevant research and stay up to date with the relevant research.
 
