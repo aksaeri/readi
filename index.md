@@ -7,7 +7,7 @@ title: READI
 
 # READI
 
-The Rapid Effective Action Development Initative (READI) coordinates and conducts behaviour science research to improve decision-making and behaviour for the world's most pressing problems.
+The Rapid Effective Action Development Initiative (READI) coordinates and conducts behaviour science research to improve decision-making and behaviour for the world's most pressing problems.
 
 <p align="center">
 <img src="/assets/71200510_1708221562643745_6557868032482344960_n%20v4.png" height="480" width="700">
