@@ -6,17 +6,25 @@ description: EAARC projects
 
 # Philanthopy research database
 
-In collaboration with Giving What We Can and Innovations in Fundraising READI have curated a database of more than 1,000 research articles on how to promote philanthropy and donating. 
+In collaboration with [Giving What We Can](https://www.givingwhatwecan.org/) and [Innovations in Fundraising](https://innovationsinfundraising.org/), READI are building a database research articles on how to promote philanthropy and donating. 
+
+At this stage, the database is a prototype and everything is intended as a proof of concept. We will add more research and make improvements if we get feedback that convinces us that the database is useful for a sufficient number of people. Please complete this feedback [form](https://forms.gle/cj8ERsfyYJV7co3H8) to give us helpful feedback.
 
 The aim is to help people working on charity research and practice to access and manage relevant research and stay up to date with the relevant research.
 
-There are two ways to access this database. You can download this RIS file (via Google Drive), and open it with a free citation library manager (e.g. Zotero). Alternatively, you can download this CSV/spreadsheet.
+To access this database, download the newest RIS file in this [Google Drive folder](https://drive.google.com/drive/folders/1VuA1nQticmyN5dBxPYkCilqncP4AFWiL?usp=sharing), and open it with a free citation library manager (e.g. [Zotero](https://www.zotero.org/)). Here is a short video to show you how to do this.
 
-We curate updates about the newest articles added to the database each quarter and post these on social media (follow Peter on Linkedin). We will create a dedicated account or newsletter if there is demand.
+[Here](https://www.loom.com/share/b9a970a9f35d49c48fd9f078439842c8) is a short video showing you how to download the file and use Zotero (it runs out of time so please see the next video for how to add records)
 
-At this stage, the database is a prototype that we are looking to validate. We will add more research and improvements if we are convinced that it is useful. If you would like to offer feedback then please complete this feedback form to support or offer feedback.
+[Here](https://www.loom.com/share/e518fa2a43854dca9dfeec07ec0b1171) is a short video showing you how to add research to Zotero from google scholar or from a folder.
 
-If you have questions then please read the FAQ below. If you have questions that haven't been addressed or a comment, then please submit it here.
+Better, and longer instruction can be provided, if there is sufficient demand.
+
+You can also download the database as a spreadsheet. Simply pick the newest CSV/spreadsheet and open it with excel or google sheets.
+
+We curate updates about the newest articles added to the database each quarter and post these on social media (follow Peter on [Linkedin](https://www.linkedin.com/in/peterslattery1/)). We will create a dedicated account or newsletter if there is demand.
+
+If you have questions then please read the FAQ here. If you have questions that haven't been addressed or a comment, then please submit it in our feedback [form](https://forms.gle/cj8ERsfyYJV7co3H8).
 
 # FAQ
 
@@ -35,15 +43,23 @@ If you have questions then please read the FAQ below. If you have questions that
 * Save time finding the information you need. No more searching on google scholar and trying to filter through thousands of irrelevant responses. Let us do more of the searching and filtering for you.
  
 ## Can you show me how to download, access and use the database?
-Yes we can. Here is a short video showing you how you can have this up and running on zotero in less than five minutes.
+[Here](https://www.loom.com/share/b9a970a9f35d49c48fd9f078439842c8) is a short video showing you how to download the file and use Zotero (it runs out of time so please see the next video for how to add records)
+
+[Here](https://www.loom.com/share/e518fa2a43854dca9dfeec07ec0b1171) is a short video showing you how to add research to Zotero from google scholar or from a folder.
 
 ## What is the long term plan for this if it is useful?
-In the long term this work could support a ‘living review’ (i.e. a literature review that is kept up-to-date (potentially like this).
+In the long term this database could support a ‘living review’ - a review of the literature that is regularly updated, for instance, once each year. The output from this process could potentially look something like [this](https://docs.google.com/document/d/1osAwuO1J9L2z3PDGQn6UkFEA-4vs5WV9eJ5hAASnS7o/edit) (but it would cover a much larger body of literature).
 
-These and other material would be hosted within a 'philanthropy research toolkit', like this.
+The living review, database and other material would be hosted within a 'philanthropy research toolkit', like [this](https://sites.google.com/monash.edu/behaviourworks-scaleup-toolkit/) website.
 
 ## How should I interpret the findings from individual papers?
-Don’t necessarily trust and apply any single finding in isolation. These studies discuss, theorizing, measuring, and testing a range of concepts, but they don't offer "direct pointers on what to do". Unfortunately there are no simple answers to how best to run your charity. However, considering research makes it more likely that you will make better decisions.
+Considering the research is necessary but not sufficient for making good decisions about how to run a charity or fundraiser. 
+
+You shouldn’t necessarily trust and apply any single finding in isolation and should consider all academic evidence alongside your personal experience, knowledge and user research. 
+
+Additionally, most research will not provide "direct pointers on what to do" so you may need to do your own interpretation and testing.
+
+Unfortunately there are rarely answers to how best to run your charity - all this database can do is make it easier to to get and to manage some of the relevant information you need.
 
 ## How can I help or join the collaboration?
 Please email peter.slattery@monash.edu if you are interested in joining the collaboration or would like to help with maintaining the database. Volunteers will need some basic experience with collecting and managing research articles. 
