@@ -8,9 +8,9 @@ description: EAARC projects
 
 In collaboration with [Giving What We Can](https://www.givingwhatwecan.org/) and [Innovations in Fundraising](https://innovationsinfundraising.org/), READI are building a database research articles on how to promote philanthropy and donating. 
 
-At this stage, the database is a prototype and everything is intended as a proof of concept. We will add more research and make improvements if we get feedback that convinces us that the database is useful for a sufficient number of people. Please complete this feedback [form](https://forms.gle/cj8ERsfyYJV7co3H8) to give us helpful feedback.
-
 The aim is to help people working on charity research and practice to access and manage relevant research and stay up to date with the relevant research.
+
+Please note that the current database is a prototype and everything is intended as a proof of concept. We will add more research and make improvements if we get feedback that convinces us that the database is useful for a sufficient number of people. Please complete this feedback [form](https://forms.gle/cj8ERsfyYJV7co3H8) to give us helpful feedback.
 
 To access this database, download the newest RIS file in this [Google Drive folder](https://drive.google.com/drive/folders/1VuA1nQticmyN5dBxPYkCilqncP4AFWiL?usp=sharing), and open it with a free citation library manager (e.g. [Zotero](https://www.zotero.org/)). Here is a short video to show you how to do this.
 
