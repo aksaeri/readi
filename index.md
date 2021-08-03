@@ -1,15 +1,6 @@
 ---
 layout: default
 title: READI
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=281567111"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'MEASUREMENT_ID');
-</script>
 ---
 <img src="/assets/noun_Target_804778.png" alt="READI logo" title="READI logo" style="width: 64px; float: right; margin: 0;"> 
 
