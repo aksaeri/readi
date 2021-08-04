@@ -66,6 +66,9 @@ Additionally, most research will not provide "direct pointers on what to do" so 
 
 Unfortunately there are rarely answers to how best to run your charity - all this database can do is make it easier to to get and to manage some of the relevant information you need.
 
+## Where can I find the papers for the records in the database?
+For copyright reasons we cannot share the papers for most of the records in the database. However, you may be able to access these via a library or by contacting the researchers. There are services such as Sci-hub which can access all papers but these are illegal and we do not recommend using them. 
+
 ## Can I get an evidence summary report for a specific research question?
 If you need help summarising the collective evidence or getting to the 'who needs to do what' level of detail then we recommend reaching out to relevant consulting services and asking them to review relevant research on your behalf. READI do not have capacity to do this at present.
 
