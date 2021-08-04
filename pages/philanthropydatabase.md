@@ -6,11 +6,11 @@ description: Our Philanthopy research database
 
 # Philanthopy research database
 
-In collaboration with [Giving What We Can](https://www.givingwhatwecan.org/) and [Innovations in Fundraising](https://innovationsinfundraising.org/), READI are building a database of research on how to promote philanthropy and donating. 
+In collaboration with [Giving What We Can](https://www.givingwhatwecan.org/) and [Innovations in Fundraising](https://innovationsinfundraising.org/), READI are testing a project to build a database of research on how to promote philanthropy and donating. 
 
-The aim is to help people working on charity research and practice to access and manage relevant research and stay up to date with the relevant research.
+The aim is to help people working on charity research and practice to access and manage relevant research and stay up to date with the relevant evidence. This in turn may help to improve research and organisational performance.
 
-Please note that the current database is a prototype and everything is intended as a proof of concept. We will add more research and make improvements if we get feedback that convinces us that the database is useful for a sufficient number of people. Please complete this feedback [form](https://forms.gle/cj8ERsfyYJV7co3H8) to give us helpful feedback.
+The current database and materials are prototypes for feedback. We will add research and improvements if feedback is positive. Please complete this [form](https://forms.gle/cj8ERsfyYJV7co3H8) to give us feedback.
 
 To access this database, download the newest RIS file in this [Google Drive folder](https://drive.google.com/drive/folders/1VuA1nQticmyN5dBxPYkCilqncP4AFWiL?usp=sharing), and open it with a free citation library manager (e.g. [Zotero](https://www.zotero.org/)). Here is a short video to show you how to do this.
 
@@ -24,35 +24,40 @@ You can also download the database as a spreadsheet. Simply pick the newest CSV/
 
 We curate updates about the newest articles added to the database each quarter and post these on social media (follow Peter on [Linkedin](https://www.linkedin.com/in/peterslattery1/)). We will create a dedicated account or newsletter if there is demand.
 
-If you have questions then please read the FAQ here. If you have questions that haven't been addressed or a comment, then please submit it in our feedback [form](https://forms.gle/cj8ERsfyYJV7co3H8).
+If you have questions then please read the FAQ here. If you have questions that haven't been addressed or a comment, then please submit these to our [form](https://forms.gle/cj8ERsfyYJV7co3H8).
 
 # FAQ
+## Why might this database be useful to researchers?
+* If you are new to research in this area you can save several hours of time searching, downloading and tagging papers. 
+
+* If you are an existing researcher you can download the database and add it to your own and get papers you may have missed.
+
+* See where most research has been published to help with journal selection
 
 ## Why might this database be useful to my charity or fundraising organisation?
+* Use best practice to engage with academic evidence. Academic search engines and citation management systems are the best way to find and store academic research. Unfortunately, not everyone has access. This database gives you most of what you could find in a search, without the need to have the access and ability to do it. It also provides tags to help categorise those materials.
  
-* Engage with academic research like a researcher. As researchers know, search engines and citation management systems are the best way to engage with academic research.  We can do the searching part for you and can make the second part really easy (see below).
+* Be more evidence based and up-to-date with relevant research. When there are new relevant research findings like the [identifiable victim effect](https://en.wikipedia.org/wiki/Identifiable_victim_effect) you will be able to know about and react to them more quickly.
  
-* Know the latest research. Academic research isn’t always very actionable or interpretable, but there are often significant and clear findings like the identifiable victim effect. It is important to know about and react to these insights as quickly as possible. 
+* Identify relevant researchers producing most of the research relevant to your areas of fundraising. Know who to ask about
  
-* Know the relevant researchers - keep on top of who is producing most of the research relevant to your areas of fundraising
+* Simplify research and strategy development. Use the database (alongside zotero) to inform how, what and when to communicate on your website and promotional materials.
  
-* Simplify research and strategy development. Use the database (alongside zotero) to give you easier and quicker answers about key questions such as how, what and when to message potential donors and what to show on your website and promotional materials.
+* Save time finding the information you need. Use searching and tagging to curate key sets of papers inside your reference management and quickly answer specific questions. 
  
-* Use tagging to curate key sets of papers inside your reference management system to answer very specific questions. 
- 
-* Save time finding the information you need. No more searching on google scholar and trying to filter through thousands of irrelevant responses. Let us do more of the searching and filtering for you.
- 
-## Can you show me how to download, access and use the database?
+## How can I download, access and use the database?
 [Here](https://www.loom.com/share/b9a970a9f35d49c48fd9f078439842c8) is a short video showing you how to download the file and use Zotero (it runs out of time so please see the next video for how to add records)
 
 [Here](https://www.loom.com/share/e518fa2a43854dca9dfeec07ec0b1171) is a short video showing you how to add research to Zotero from google scholar or from a folder.
 
-## What is the long term plan for this if it is useful?
-In the long term this database could support a ‘living review’ - a review of the literature that is regularly updated, for instance, once each year. The output from this process could potentially look something like [this](https://docs.google.com/document/d/1osAwuO1J9L2z3PDGQn6UkFEA-4vs5WV9eJ5hAASnS7o/edit) (but it would cover a much larger body of literature).
+## What are examples of potential future improvements to the database and project?
+All research could be carefully tagged using a defined tag catalogue. If curious about designing an animal welfare website, for instance, you could narrow the results by selecting these tags: 'website' and 'animals' and immediately hone in on all relevant evidence.
 
-The living review, database and other material would be hosted within a 'philanthropy research toolkit', like [this](https://sites.google.com/monash.edu/behaviourworks-scaleup-toolkit/) website.
+In the long term this database could co-exist alongside a ‘living review’ - a review of the literature that is regularly updated, for instance, once each year. The output from this process could potentially look something like [this](https://docs.google.com/document/d/1osAwuO1J9L2z3PDGQn6UkFEA-4vs5WV9eJ5hAASnS7o/edit) (but cover a much larger body of literature).
 
-## How should I interpret the findings from individual papers?
+The living review, database and other material could be hosted within a 'philanthropy research toolkit', like [this](https://sites.google.com/monash.edu/behaviourworks-scaleup-toolkit/) website. 
+
+## How should I interpret the findings from individual papers in the database?
 Considering the research is necessary but not sufficient for making good decisions about how to run a charity or fundraiser. 
 
 You shouldn’t necessarily trust and apply any single finding in isolation and should consider all academic evidence alongside your personal experience, knowledge and user research. 
@@ -61,7 +66,10 @@ Additionally, most research will not provide "direct pointers on what to do" so 
 
 Unfortunately there are rarely answers to how best to run your charity - all this database can do is make it easier to to get and to manage some of the relevant information you need.
 
-## How can I help or join the collaboration?
-Please email peter.slattery@monash.edu if you are interested in joining the collaboration or would like to help with maintaining the database. Volunteers will need some basic experience with collecting and managing research articles. 
+## How can I help or join this project?
+Please email peter.slattery@monash.edu if you are interested in helping with the database. Volunteers will need some basic experience with collecting and managing research articles. 
 
 If you are a philanthropy researcher, we would appreciate it if you can contribute some of your research from any personal database you maintain. You can usually export some, or all records as an RIS file from most software (XML is also fine).
+
+## Can I get an evidence summary report for a specific research question?
+If you need help summarising the collective evidence or getting to the 'who needs to do what' level of detail then we recommend reaching out to relevant consulting services and asking them to review relevant research on your behalf. 
