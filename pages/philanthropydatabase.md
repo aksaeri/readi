@@ -66,10 +66,10 @@ Additionally, most research will not provide "direct pointers on what to do" so 
 
 Unfortunately there are rarely answers to how best to run your charity - all this database can do is make it easier to to get and to manage some of the relevant information you need.
 
+## Can I get an evidence summary report for a specific research question?
+If you need help summarising the collective evidence or getting to the 'who needs to do what' level of detail then we recommend reaching out to relevant consulting services and asking them to review relevant research on your behalf. READI do not have capacity to do this at present.
+
 ## How can I help or join this project?
 Please email peter.slattery@monash.edu if you are interested in helping with the database. Volunteers will need some basic experience with collecting and managing research articles. 
 
 If you are a philanthropy researcher, we would appreciate it if you can contribute some of your research from any personal database you maintain. You can usually export some, or all records as an RIS file from most software (XML is also fine).
-
-## Can I get an evidence summary report for a specific research question?
-If you need help summarising the collective evidence or getting to the 'who needs to do what' level of detail then we recommend reaching out to relevant consulting services and asking them to review relevant research on your behalf. 
