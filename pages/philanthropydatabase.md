@@ -12,7 +12,7 @@ description: Our Philanthopy research database
 
 In collaboration with [Giving What We Can](https://www.givingwhatwecan.org/) and [Innovations in Fundraising](https://innovationsinfundraising.org/), have created a database of over 900 papers examining how to promote philanthropy and donating. 
 
-The aim is to help charity researchers and practitioners to access and manage relevant research evidence and have increased social impact.
+We aim to help charity researchers and practitioners to access and manage relevant research evidence and have increased social impact.
 
 The current database and supporting materials are prototypes developed for feedback. Further work and improvement depends on whether we get positive feedback. Submit feedback [here](https://forms.gle/cj8ERsfyYJV7co3H8).
 
