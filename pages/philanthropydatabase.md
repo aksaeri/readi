@@ -7,7 +7,7 @@ description: Our Philanthopy research database
 # Philanthopy research database
 
 <p align="center">
-<img src="/assets/Donation database v4.PNG" height="480" width="700"> Donation database v4.PNG
+<img src="/assets/Donation database v4.PNG" height="480" width="700">
 </p>
 
 In collaboration with [Giving What We Can](https://www.givingwhatwecan.org/) and [Innovations in Fundraising](https://innovationsinfundraising.org/), we are developing a database of research on how to promote philanthropy and donating. 
