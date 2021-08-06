@@ -14,7 +14,7 @@ In collaboration with [Giving What We Can](https://www.givingwhatwecan.org/) and
 
 The aim is to help charity researchers and practitioners to access and manage relevant research evidence and have increased social impact.
 
-The current database and supporting materials are prototypes. We will add research and improvements if feedback is positive. Please complete this [form](https://forms.gle/cj8ERsfyYJV7co3H8) to give us feedback.
+The current database and supporting materials are prototypes developed for feedback. Further work and improvement depends on whether we get positive feedback. Submit feedback [here](https://forms.gle/cj8ERsfyYJV7co3H8).
 
 To access this database, download the newest RIS file in this [Google Drive folder](https://drive.google.com/drive/folders/1VuA1nQticmyN5dBxPYkCilqncP4AFWiL?usp=sharing), and open it with a free citation library manager (e.g. [Zotero](https://www.zotero.org/)). Here is a short video to show you how to do this.
 
@@ -35,8 +35,6 @@ If you have questions then please read the FAQ here. If you have questions that 
 * If you are new to research in this area you can save several hours of time searching, downloading and tagging papers. 
 
 * If you are an existing researcher you can download the database and add it to your own and get papers you may have missed.
-
-* See where most research has been published to help with journal selection
 
 ## Why might this database be useful to my charity or fundraising organisation?
 * Use best practice to engage with academic evidence. Academic search engines and citation management systems are the best way to find and store academic research. Unfortunately, not everyone has access. This database gives you most of what you could find in a search, without the need to have the access and ability to do it. It also provides tags to help categorise those materials.
