@@ -10,11 +10,11 @@ description: Our Philanthopy research database
 <img src="/assets/Donation database v4.PNG" height="480" width="700">
 </p>
 
-In collaboration with [Giving What We Can](https://www.givingwhatwecan.org/) and [Innovations in Fundraising](https://innovationsinfundraising.org/), we are developing a database of research on how to promote philanthropy and donating. 
+In collaboration with [Giving What We Can](https://www.givingwhatwecan.org/) and [Innovations in Fundraising](https://innovationsinfundraising.org/), have created a database of over 1000 papers examining how to promote philanthropy and donating. 
 
-The aim is to help people working on charity research and practice to access and manage relevant research and stay up to date with the relevant evidence. This in turn may help to improve research and organisational performance.
+The aim is to help charity researchers and practitioners to access and manage relevant research evidence and have increased social impact.
 
-The current database and materials are prototypes for feedback. We will add research and improvements if feedback is positive. Please complete this [form](https://forms.gle/cj8ERsfyYJV7co3H8) to give us feedback.
+The current database and supporting materials are prototypes. We will add research and improvements if feedback is positive. Please complete this [form](https://forms.gle/cj8ERsfyYJV7co3H8) to give us feedback.
 
 To access this database, download the newest RIS file in this [Google Drive folder](https://drive.google.com/drive/folders/1VuA1nQticmyN5dBxPYkCilqncP4AFWiL?usp=sharing), and open it with a free citation library manager (e.g. [Zotero](https://www.zotero.org/)). Here is a short video to show you how to do this.
 
