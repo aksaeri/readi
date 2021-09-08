@@ -10,23 +10,15 @@ description: Our Philanthopy research database
 <img src="/assets/Donation database v4.PNG" height="480" width="700">
 </p>
 
-In collaboration with [Giving What We Can](https://www.givingwhatwecan.org/) and [Innovations in Fundraising](https://innovationsinfundraising.org/), have created a database of over 900 papers examining how to promote philanthropy and donating. 
-
-We aim to help charity researchers and practitioners to access and manage relevant research evidence and have increased social impact.
+In collaboration with [Giving What We Can](https://www.givingwhatwecan.org/) and [Innovations in Fundraising](https://innovationsinfundraising.org/), have created a database of over 900 papers examining how to promote philanthropy and donating. We aim to help charity researchers and practitioners to access and manage relevant research evidence and have increased social impact.
 
 The current database and supporting materials are prototypes developed for feedback. Further work and improvement depends on whether we get positive feedback. Submit feedback [here](https://forms.gle/cj8ERsfyYJV7co3H8).
 
-To access this database, download the newest RIS file in this [Google Drive folder](https://drive.google.com/drive/folders/1VuA1nQticmyN5dBxPYkCilqncP4AFWiL?usp=sharing), and open it with a free citation library manager (e.g. [Zotero](https://www.zotero.org/)). Here is a short video to show you how to do this.
+To access this database, download the newest RIS file in this [Google Drive folder](https://drive.google.com/drive/folders/1VuA1nQticmyN5dBxPYkCilqncP4AFWiL?usp=sharing), and open it with a free citation library manager (e.g. [Zotero](https://www.zotero.org/)). [Here](https://www.loom.com/share/b9a970a9f35d49c48fd9f078439842c8) is a short video showing you how to download the file and use Zotero (it runs out of time so please see the next video for how to add records). [Here](https://www.loom.com/share/e518fa2a43854dca9dfeec07ec0b1171) is a short video showing you how to add research to Zotero from google scholar or from a folder.
 
-[Here](https://www.loom.com/share/b9a970a9f35d49c48fd9f078439842c8) is a short video showing you how to download the file and use Zotero (it runs out of time so please see the next video for how to add records)
+We can provide better, and longer instructions for the using the database, if there is sufficient demand.
 
-[Here](https://www.loom.com/share/e518fa2a43854dca9dfeec07ec0b1171) is a short video showing you how to add research to Zotero from google scholar or from a folder.
-
-Better, and longer instruction can be provided, if there is sufficient demand.
-
-You can also download the database as a spreadsheet. Simply pick the newest CSV/spreadsheet and open it with excel or google sheets.
-
-We curate updates about the newest articles added to the database each quarter and post these on social media (follow Peter on [Linkedin](https://www.linkedin.com/in/peterslattery1/)). We will create a dedicated account or newsletter if there is demand.
+We post updates about the newest articles added to the database each quarter on social media (follow Peter on [Linkedin](https://www.linkedin.com/in/peterslattery1/)). We will create a dedicated account or newsletter if there is demand.
 
 If you have questions then please read the FAQ here. If you have questions that haven't been addressed or a comment, then please submit these to our [form](https://forms.gle/cj8ERsfyYJV7co3H8).
 
