@@ -24,6 +24,6 @@ The Rapid Effective Action Development Initiative (READI) coordinates and conduc
 
 If you're leading an effective charity and you're trying to decide which messaging will best encourage prospective donors to contribute financially to your charity, then you should read about our [**charitable donations review**](https://docs.google.com/document/d/1osAwuO1J9L2z3PDGQn6UkFEA-4vs5WV9eJ5hAASnS7o/edit?usp=sharing).
 
-If you're working in animal welfare and you're trying to decide which marketing or other interventions to implement so that you can can encourage the public to eat less meat and other animal products, then you should read our [**animal products consumption review**](https://docs.google.com/document/d/1zqUPNGktRz6emp0WsPmmVjkOitiW7XdWS55YgBTNnp0/edit?usp=sharing).
+If you're working in animal welfare and you're trying to decide which marketing or other interventions to implement so that you can can encourage the public to eat less meat and other animal products, then you should read our [**animal products consumption review preprint**](https://osf.io/mcdsq/).
 
 If your organisation serves the public and you're trying to decide on the policies that will most reduce harm and support a sustainable recovery from COVID-19, you should read about the [**Survey of COVID-19 Responses to Understand Behaviour (SCRUB)**](https://www.scrubcovid19.org/).
