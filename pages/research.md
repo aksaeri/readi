@@ -16,20 +16,16 @@ After each wave of data collection, we generate and disseminate an updated repor
 
 We have over 100 international collaborators and more than 4000 people across 40 countries have completed the first and second waves of data collection. 
 
-Participate in the SCRUB study or read more about how to access the open science data [here](https://www.scrubcovid19.org)
+Participate in the SCRUB study or read more about how to access the open science data [here.](https://www.scrubcovid19.org)
 
 ## What works to reduce dietary consumption of animal products?
 
 We are conducting an overview of reviews to identify interventions that reduce dietary consumption of animal products.
 
-You can read the project protocol:
-
-- [READI/EAARC protocol - reducing animal product consumption](https://docs.google.com/document/d/1zqUPNGktRz6emp0WsPmmVjkOitiW7XdWS55YgBTNnp0/edit?usp=sharing)
+You can read the preprint [here.](https://osf.io/mcdsq/)
 
 ## What works to promote charitable donations?
 
 We conducted an overview of systematic reviews to identify interventions that promote charitable donations.
 
-You can read the project summary:
-
-- [READI/EAARC project summary - what works to promote charitable donations?](https://docs.google.com/document/d/1osAwuO1J9L2z3PDGQn6UkFEA-4vs5WV9eJ5hAASnS7o/edit?usp=sharing)
+You can read the project summary [here.](https://docs.google.com/document/d/1osAwuO1J9L2z3PDGQn6UkFEA-4vs5WV9eJ5hAASnS7o/edit?usp=sharing)
