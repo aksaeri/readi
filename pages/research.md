@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-description: EAARC projects
+description: READI projects
 ---
 
 # Research projects
